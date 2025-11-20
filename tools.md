@@ -11,4 +11,11 @@ Let’s start with [Shodan](https://www.shodan.io/), a search engine for devices
 
 At first glance, [Censys](https://search.censys.io/) appears similar to Shodan. However, Shodan focuses on Internet-connected devices and systems, such as servers, routers, webcams, and IoT devices. Censys, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. Some of its use cases include enumerating domains in use, auditing open ports and services, and discovering rogue assets within a network.
 
-![censys picture](https://github.com/Andreas512514/Specialized_Search_Engines/blob/main/Screenshot%202025-11-20%20152705.png).
+![censys picture](https://github.com/Andreas512514/Specialized_Search_Engines/blob/main/Screenshot%202025-11-20%20152705.png)<br><br><br>
+
+
+## Have I Been Pwned
+
+[Have I Been Pwned](https://haveibeenpwned.com/) (HIBP) does one thing; it tells you if an email address has appeared in a leaked data breach. Finding one’s email within leaked data indicates leaked private information and, more importantly, passwords.
+
+![Have I Been Pwned](https://github.com/Andreas512514/Specialized_Search_Engines/blob/main/Screenshot%202025-11-20%20153514.png)
